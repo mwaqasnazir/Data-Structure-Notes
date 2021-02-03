@@ -1,0 +1,17 @@
+Day-1 of #100daysofcode
+Introduction to data structures.
+
+Today I learned:
+1. Data Structure
+2.Data structures classifications
+3.Data Structures basic operations
+4.Abstract Data Types
+5. Basics Of Algorithms
+
+
+Suggestions and advices are heartfully welcome.
+
+github repo link
+https://lnkd.in/dSYuMUW
+
+#100daysofcodechallenge #datastructures #dailycoding #100daysofcoding #100daysofcode

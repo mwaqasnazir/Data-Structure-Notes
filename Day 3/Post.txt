@@ -1,0 +1,14 @@
+Day-3 of #100daysofcode
+
+Code Implementation of Array Data Structure.
+
+Today I learned:
+
+1.Array decleration & Initilization With Different Methods
+2.Array DS Traverse Operation
+3.Age Finder Program with Linear Search by using Traverse Operation.
+
+
+
+
+#100daysofcodechallenge #datastructures #array #dailycoding #100daysofcoding #100daysofcode
